@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-*I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concepts. <br>
-And I'm interested to design, build and implement pipeline systems which convert raw data into value ones.*
+I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concepts. <br>
+And I'm interested to design, build and implement pipeline systems which convert raw data into value ones.
 
 ### Skills
 - **🖥 Language** <br>
@@ -17,7 +17,7 @@ And I'm interested to design, build and implement pipeline systems which convert
    - `dbt`🛠️
    - `Airbyte`
 
-- ** Database and Datawarehouse**
+- **🗃️ Database and Datawarehouse**
    - `MySQL`🐬
    - `ETL Concepts`🔄
    - `Data Warehousing`🏢
