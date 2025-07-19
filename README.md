@@ -43,7 +43,7 @@ I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concept
 
 ### 📬 Contact Me:
    - 💼[**@LinkedIn**](linkedin.com/in/vishak-n)
-   - ✉️[** @Email**](vishaknatarajan.n@gmail.com)
+   - ✉️[**@Email**](vishaknatarajan.n@gmail.com)
   
 
 
