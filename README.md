@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concepts and I'm interested to design, build and implement pipeline systems which convert raw data into value ones. <br>
+I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concepts and I'm interested to design, build and implement pipeline systems which convert raw data into value ones.
 **Looking for an Internship**, eager to apply knowledge and skill in the real-world use case.
 
 ### Skills
