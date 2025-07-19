@@ -17,17 +17,17 @@ And I'm interested to design, build and implement pipeline systems which convert
    - `dbt`🛠️
    - `Airbyte`
 
-- **Database and Datawarehouse**
+- ** Database and Datawarehouse**
    - `MySQL`🐬
    - `ETL Concepts`🔄
    - `Data Warehousing`🏢
  
-- **Cloud**
+- **☁️ Cloud**
    - `Azure Data Factory`🏭
    - `Azure Databricks`💻
    - `Azure Data Lake Storage account Gen 2`🌊
-
- - **Tools and Other Technologies**
+ 
+ - **🛠️ Tools and Other Technologies**
    - `Github`🐙
    - `VScode`
 
@@ -41,9 +41,9 @@ And I'm interested to design, build and implement pipeline systems which convert
 - **✈️ Travel Bookings with SCD TYPE-2**
    - [📂here's the repo](https://github.com/VishaK-N/dbx_SCD_project.git)
 
-### Contact Me:
-   - [@LinkedIn](linkedin.com/in/vishak-n)
-   - [@Email](vishaknatarajan.n@gmail.com)
+###📬 Contact Me:
+   - [**💼@LinkedIn**](linkedin.com/in/vishak-n)
+   - [**✉️ @Email**](vishaknatarajan.n@gmail.com)
   
 
 
