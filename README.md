@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concepts. <br>
-And I'm interested to design, build and implement pipeline systems which convert raw data into value ones.
+*I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concepts. <br>
+And I'm interested to design, build and implement pipeline systems which convert raw data into value ones.*
 
 ### Skills
 - **🖥 Language** <br>
@@ -33,17 +33,17 @@ And I'm interested to design, build and implement pipeline systems which convert
 
 ### Projects
 - **🎬 Movielens Data Analytics project using Data Build Tool**
-   - [📂here's the repo](https://github.com/VishaK-N/movielens_analytics_dbt.git)
+   - 📂[here's the repo](https://github.com/VishaK-N/movielens_analytics_dbt.git)
 - **🏥 Healthcare AR management using Azure Data Factory**
-   - [📂here's the repo](https://github.com/VishaK-N/adf_project.git)
+   - 📂[here's the repo](https://github.com/VishaK-N/adf_project.git)
 - **🛒 Order Tracking Pipeline using Databricks**
-   - [📂here's the repo](https://github.com/VishaK-N/event_driven_incremental_loading.git)
+   - 📂[here's the repo](https://github.com/VishaK-N/event_driven_incremental_loading.git)
 - **✈️ Travel Bookings with SCD TYPE-2**
-   - [📂here's the repo](https://github.com/VishaK-N/dbx_SCD_project.git)
+   - 📂[here's the repo](https://github.com/VishaK-N/dbx_SCD_project.git)
 
-###📬 Contact Me:
-   - [**💼@LinkedIn**](linkedin.com/in/vishak-n)
-   - [**✉️ @Email**](vishaknatarajan.n@gmail.com)
+### 📬 Contact Me:
+   - 💼[**@LinkedIn**](linkedin.com/in/vishak-n)
+   - ✉️[** @Email**](vishaknatarajan.n@gmail.com)
   
 
 
