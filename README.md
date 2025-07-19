@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**VishaK-N/VishaK-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concepts. <br>
+And I'm interested to design, build and implement pipeline systems which convert raw data into value ones.
 
-Here are some ideas to get you started:
+### Skills
+- **Language** <br>
+   - `SQL`
+   - `Pyspark`
+   - `Python basics`
+   - `HQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Big Data Technologies** <br>
+   - `Spark`
+   - `Hadoop`
+   - `Hive`
+   - `dbt`
+   - `Airbyte`
+
+- **Database and Datawarehouse**
+   - `MySQL`
+   - `ETL Concepts`
+   - `Data Warehousing`
+ 
+- **Cloud**
+   - `Azure Data Factory`
+   - `Azure Databricks`
+   - `Azure Data Lake Storage account Gen 2`
+
+ - **Tools and Other Technologies**
+   - `Github`
+   - `VScode`
+
+### Projects
+- **Movielens Data Analytics project using Data Build Tool**
+   - [click](https://github.com/VishaK-N/movielens_analytics_dbt.git)
+  
+
+
