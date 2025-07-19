@@ -4,7 +4,7 @@ I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concept
 **Looking for an Internship**, eager to apply knowledge and skills in the real-world use case.
 
 ### Skills
-- **🖥 Language** <br>
+- **🖥 Languages** <br>
    - `SQL`🐘
    - `Pyspark`🔥
    - `Python basics`🐍
