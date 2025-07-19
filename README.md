@@ -36,9 +36,9 @@ I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concept
    - 📂[here's the repo](https://github.com/VishaK-N/movielens_analytics_dbt.git)
 - **🏥 Healthcare AR management using Azure Data Factory**
    - 📂[here's the repo](https://github.com/VishaK-N/adf_project.git)
-- **🛒 Order Tracking Pipeline using Databricks**
+- **🛒 Order Tracking Pipeline with event driven incremental loading using Databricks**
    - 📂[here's the repo](https://github.com/VishaK-N/event_driven_incremental_loading.git)
-- **✈️ Travel Bookings with SCD TYPE-2**
+- **✈️ Travel Bookings with SCD TYPE-2 and incremental loading using databricks**
    - 📂[here's the repo](https://github.com/VishaK-N/dbx_SCD_project.git)
 
 ### 📬 Contact Me:
