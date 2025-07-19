@@ -32,8 +32,8 @@ And I'm interested to design, build and implement pipeline systems which convert
    - `VScode`
 
 ### Projects
-- **Movielens Data Analytics project using Data Build Tool**
-   - [click](https://github.com/VishaK-N/movielens_analytics_dbt.git)
+- ** 🎬 Movielens Data Analytics project using Data Build Tool**
+   - [📂here's the repo](https://github.com/VishaK-N/movielens_analytics_dbt.git)
   
 
 
