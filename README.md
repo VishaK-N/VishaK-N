@@ -32,6 +32,8 @@ I'm a Data Engineer, I have a foundational knowledge in Data Engineering Concept
    - `VScode`
 
 ### Projects
+- **🏥 Healthcare AR Management using Azure Databricks**
+   - 📂[here's the repo](https://github.com/VishaK-N/Healthcare_AR_Management_using_Azure_Databricks.git)
 - **🎬 Movielens Data Analytics project using Data Build Tool**
    - 📂[here's the repo](https://github.com/VishaK-N/movielens_analytics_dbt.git)
 - **🏥 Healthcare AR management using Azure Data Factory**
